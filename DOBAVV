@@ -30,4 +30,4 @@ async def on_member_update(before, after):
             print(f"Не удалось отправить сообщение: {e}")
 
 # Запускаем бота с использованием токена
-bot.run('MTMyNzc2MzU2NjQzODI1MjU0NA.G-LFVx.3dXYPwnco3sgVR-Ynbp0X2Pc01-DIia8I8sVdE')
+bot.run('MTMyNzc2MzU2NjQzODI1MjU0NA.GFvty9.tJxSycPzWB-9IlXYy5x-ufQ7_i8x8DAzeQnDGM')
